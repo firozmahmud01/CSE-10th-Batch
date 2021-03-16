@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231048297093",
+    "firebase_url": "https://cse-10th-batch.firebaseio.com",
+    "project_id": "cse-10th-batch",
+    "storage_bucket": "cse-10th-batch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231048297093:android:ce40fd05099eff440147ec",
+        "android_client_info": {
+          "package_name": "com.firoz.mahmud.cse10thbatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231048297093-ptfrr822l8hq5or7gi3h1j4f89ctidap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_nSeY5p5sSNpYqPmXp6oSfScIeac4rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231048297093-ptfrr822l8hq5or7gi3h1j4f89ctidap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

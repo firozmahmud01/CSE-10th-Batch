@@ -1,0 +1,2 @@
+rootProject.name='CSE 10th Batch'
+include ':app'
